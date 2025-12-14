@@ -17,3 +17,4 @@ these are as follows:
 14) TransactionPage
 15) Dashboard
 16) ClientDashboard
+17) Authenticate
