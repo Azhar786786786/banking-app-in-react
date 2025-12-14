@@ -1,10 +1,19 @@
-1) Logo
-2) NotIf
-3) LoginPage
-4) DATA
-5) Sidebar
-6) Utils
-7) ActionButtons
-8) Account
-5) Dashboard
-6) ClientDashboard
+I have created many components for banking-app. 
+these are as follows:
+
+01) Logo
+02) NotIf
+03) LoginPage
+04) DATA
+05) Sidebar
+06) Utils
+07) ActionButtons
+08) Account
+09) CreateAccountPage
+10) BudgetApp
+11) MainContent
+12) MainClientContent
+13) TransferPage
+14) TransactionPage
+15) Dashboard
+16) ClientDashboard
