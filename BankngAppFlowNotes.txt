@@ -18,3 +18,5 @@ these are as follows:
 15) Dashboard
 16) ClientDashboard
 17) Authenticate
+18) static.html
+19) style.css
