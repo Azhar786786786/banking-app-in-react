@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---===================================================================---
+
+### `Banking App in React`
+
+A banking app created with ReactJS.
+
+## Demo Account Credentials
+
+Use the following credentials to test the app.
+
+# `For Admin`
+
+email : admin@admin.com
+password : abc123
+
+# `For Client`
+
+email : client@client.com
+password : abc123
