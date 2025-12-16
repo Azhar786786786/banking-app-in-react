@@ -10,6 +10,26 @@ const DATA = [
     transactions: []
   },
   {
+    email: "customer@gmail.com",
+    password: "abc123",
+    fullname: "Customer Account",
+    type: "Savings Personal",
+    number: "47290539481",
+    balance: 1029300.43,
+    isAdmin: true,
+    transactions: []
+  },
+  {
+    email: "user@gmail.com",
+    password: "abc123",
+    fullname: "User Account",
+    type: "Savings Personal",
+    number: "47290539481",
+    balance: 1029300.43,
+    isAdmin: true,
+    transactions: []
+  },
+  {
     email: "talkazhar786@gmail.com",
     password: "abc123",
     fullname: "Azhar Hussain Khan",

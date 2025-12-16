@@ -1,6 +1,7 @@
 //import logo from './logo.svg';
 import './App.css';
-import { LoginPage } from './Components/LoginPag';
+import { Authenticate } from './Components/Authenticate';
+import { LoginPage } from './Components/LoginPage';
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
 
       {/* <img src={logo} className="App-logo" alt="logo" />
       <h1>This is banking app created by Azhar Hussain Khan</h1> */}
-<LoginPage />
+{/* <LoginPage /> */}
+<Authenticate />
 
     </div>
   );
